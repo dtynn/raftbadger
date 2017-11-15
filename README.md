@@ -1,7 +1,7 @@
 ### raftbadger
 Raft backend implementation using [Badger](https://github.com/dgraph-io/badger)
 
-#### bechmarks
+#### benchmarks
 On my MacbookAir (11-inch, Early 2014)
 
 ```
